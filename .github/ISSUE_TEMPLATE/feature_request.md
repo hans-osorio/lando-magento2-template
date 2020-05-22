@@ -1,20 +1,21 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+about: Please consider reporting directly to https://github.com/magento/community-features
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+<!---
+Important: This repository is intended only for Magento 2 Technical Issues. Enter Feature Requests at https://github.com/magento/community-features. Project stakeholders monitor and manage requests. Feature requests entered using this form may be moved to the forum. Fields marked with (*) are required. Please don't remove the template.
+-->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+### Description (*)
+<!--- Describe the feature you would like to add. -->
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### Expected behavior (*)
+<!--- What is the expected behavior of this feature? How is it going to work? -->
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### Benefits
+<!--- How do you think this feature would improve Magento? -->
+
+### Additional information
+<!--- What other information can you provide about the desired feature? -->

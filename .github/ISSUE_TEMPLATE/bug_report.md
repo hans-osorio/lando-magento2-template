@@ -1,32 +1,34 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+about: Technical issue with the Magento 2 core components
 
 ---
 
-**Versions:**
- - OS: [e.g. MacOS|Windows 10|Ubuntu 18.04]
- - Lando (fetch with: `lando version`): 
- - Docker Version (fetch with: `docker version`):
+<!---
+Please review our guidelines before adding a new issue: https://github.com/magento/magento2/wiki/Issue-reporting-guidelines
+Fields marked with (*) are required. Please don't remove the template.
+-->
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+### Preconditions (*)
+<!---
+Provide the exact Magento version (example: 2.3.2) and any important information on the environment where bug is reproducible.
+-->
+1.
+2.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### Steps to reproduce (*)
+<!---
+Important: Provide a set of clear steps to reproduce this bug. We can not provide support without clear instructions on how to reproduce.
+-->
+1.
+2.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### Expected result (*)
+<!--- Tell us what do you expect to happen. -->
+1. [Screenshots, logs or description]
+2.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Additional context**
-Add any other context about the problem here.
+### Actual result (*)
+<!--- Tell us what happened instead. Include error messages and issues. -->
+1. [Screenshots, logs or description]
+2.
